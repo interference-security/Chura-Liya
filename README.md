@@ -9,8 +9,8 @@ Due credits to TrustWave SpiderLabs' Smuggler project.
 
 #Concept
 802.11 wireless protocol has management frames which are used by wireless enabled stations to establish and maintain communication with other wireless devices. Two management frame types used in this project are:
-1.	Beacon Frames
-2.	Probe Requests
+1. Beacon Frames
+2. Probe Requests
 
 Beacon Frames are used by wireless access points to notify nearby wireless clients about its presence along with other details of the access point like its name (SSID field), etc.
 
